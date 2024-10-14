@@ -1,6 +1,6 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
-import {createBrowserRouter, CreateBrowserRouter, RouterProvider} from 'react-router-dom'
+import {createBrowserRouter, RouterProvider} from 'react-router-dom'
 import App from './App.jsx'
 import Error from './routes/Error/Error.jsx'
 import Home from './routes/Home/Home.jsx'
